@@ -944,4 +944,5 @@ if __name__ == '__main__':
         print("💡 Configure no Railway: Settings > Variables > DISCORD_TOKEN")
     else:
         print("🚀 Iniciando VIREX STORE...")
+
         bot.run(TOKEN)
